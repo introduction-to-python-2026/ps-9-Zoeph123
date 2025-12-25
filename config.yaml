@@ -1,2 +1,2 @@
-path: "Zoe_model.joblib
+path: "Zoe_model.joblib"
 features: ['MDVP:Shimmer(dB)', 'MDVP:Fo(Hz)']
